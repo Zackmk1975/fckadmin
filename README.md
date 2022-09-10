@@ -95,7 +95,7 @@
 
 ## Installation in Linux :
 
-Open Terminal and Type : ```git clone https://github.com/Anonime7x/Fuckadmin.git```
+Open Terminal and Type : ```git clone https://github.com/Zackmk1975/fckadmin.git```
 
 After Downloading The File Type : ```sudo cd fuckadmin && sudo python2 fuckadmin.py```
 
@@ -108,7 +108,7 @@ Video Tutorial : Coming Soon
 
 Then Open Termux and Type : ```apt update && apt upgrade && apt install git && apt install python2```
 
-After That Open Termux and Type : ```git clone https://github.com/Anonime7x/fuckadmin.git```
+After That Open Termux and Type : ```git clone https://github.com/Zackmk1975/fckadmin.git```
 
 Then Type : ```cd fuckadmin && python2 fuckadmin.py```
 
@@ -116,7 +116,7 @@ Video Tutorial : Coming Soon
 
 ## License :
 
-[MIT Licence](https://github.com/Anonime7x/fuckadmin/blob/master/LICENSE)
+[MIT Licence](https://github.com/Zackmk1975/fckadmin/blob/master/LICENSE)
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
@@ -127,5 +127,5 @@ Thats It... If You Like This Repo. Please Share This With Your Friends..
 ***Check our blog www.hamzaanonime.blogspot.com***
 ***Enjoy.!!! :)***
 <a href="www.hamzaanonime.blogspot.com/" rel="dofollwo">Click Here</a>
-Instagrams :https://instagram.com/hamza.anonime?igshid=1hlgkw8ipxthc
-Facebook:https://www.facebook.com/profile.php?id=100027145343450
+Instagrams :https://instagram.com/#
+Facebook:https://www.facebook.com/#
